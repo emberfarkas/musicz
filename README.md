@@ -178,3 +178,7 @@ In one terminal window, run:
 Once Ganache has started, run the following in another terminal window:
 
     yarn run test
+
+# 国内注意
+
+在国内如果总是安装不成功，即使用代理
