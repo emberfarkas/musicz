@@ -181,4 +181,4 @@ Once Ganache has started, run the following in another terminal window:
 
 # 国内注意
 
-在国内如果总是安装不成功，即使用代理
+在国内如果总是安装不成功，即使使用代理，最终还是在直接使用yarn挂代理的情况下反复重试安装成功
