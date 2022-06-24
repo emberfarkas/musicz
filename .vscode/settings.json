@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 20,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true 
+    },
+    "solidity.defaultCompiler": "embedded",
+    "solidity.compileUsingRemoteVersion": "v0.5.0+commit.1d4f565a",
+    "eslint.enable": true
+}
